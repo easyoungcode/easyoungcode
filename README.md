@@ -6,6 +6,10 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyoungcode&show_icons=true&theme=flag-india)
   
+<br>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ez0)](https://solved.ac/profile/ez0)
+  
 <br><br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -17,7 +21,7 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<br><br>
+<br>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="79" height="79" /></div>
 <br><br>
   
