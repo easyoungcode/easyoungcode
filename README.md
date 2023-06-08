@@ -1,5 +1,4 @@
 # easyoungcode
-# easyoungcode
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=180&section=header&text=Hello!%20I'm%20JiYoung&fontSize=60&fontColor=fcfcfc)
