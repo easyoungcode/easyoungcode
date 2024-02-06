@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 <br>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="56" height="56" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="56" height="56" /></div>
 <br><br>
